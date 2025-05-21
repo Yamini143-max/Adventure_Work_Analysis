@@ -1,2 +1,6 @@
 # Adventure_Work_Analysis
-This is my first Git Repository.
+This Projects Provide Detailed Analysis using various Technical stools
+Microsoft Excel
+Power BI
+Tableau
+SQL
